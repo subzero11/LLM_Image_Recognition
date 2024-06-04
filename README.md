@@ -1,4 +1,4 @@
-# LLM_Image_Recognition
+# Image_Recognition
 
 Local LLM implementation of xtuner gguf vision 
 
